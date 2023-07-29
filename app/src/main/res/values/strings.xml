@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Text_to_speech_</string>
+    <string name="hint">Create on mic to Start</string>
+</resources>
